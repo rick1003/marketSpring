@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration 	PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+  <typeAliases>
+    <typeAlias type="com.spring.marketSpr.goods.vo.GoodsVO" alias="goodsVO" />
+    <typeAlias type="com.spring.marketSpr.goods.vo.ImageFileVO" alias="imageFileVO" />
+    <typeAlias type="com.spring.marketSpr.member.vo.MemberVO" alias="memberVO" />
+    <typeAlias type="com.spring.marketSpr.cart.vo.CartVO" alias="cartVO" />
+    <typeAlias type="com.spring.marketSpr.order.vo.OrderVO" alias="orderVO" />
+    <typeAlias type="com.spring.marketSpr.mypage.vo.MyPageVO" alias="mypageVO" />
+    
+  </typeAliases>
+</configuration>
+
+
+
